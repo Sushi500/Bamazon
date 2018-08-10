@@ -1,0 +1,22 @@
+{
+  "name": "hw-bamazon_sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushi500/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushi500/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Sushi500/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0"
+  }
+}
